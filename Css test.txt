@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Blog do Gaspar</title>
+  <style>
+  body{
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+  }
+  h1{
+    color: rgb(161, 33, 4);
+  }
+  h3 {
+  color: rgb(6, 14, 253);
+}
+  .proj{
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color: azure;
+    width: 50%;
+  }
+  </style>
+</head>
+<body>
+  <h1>Bem-vindo ao meu blog.</h1>
+  <h3>
+    <br>Eu chamo-me Gaspar.Aqui eu vou mostrar no que estou a trabalhar.
+  </h3>
+  <div class="proj">
+  <h2 style="color:rgb(8, 20, 87);">
+    Projeto 1:Blog
+  </h2>
+  <h3 style="color:black;">Sim! Este projeto é o meu primeiro "post"</h3>
+  <p>É simples , eu vou atualizar este blog de vez em quando.</p>
+  <br><p>13-04-2025</p>
+  </div>
+  <br>
+  <div class="proj">
+    <h2 style="color:rgb(8, 20, 87);">
+      Projeto 2:Testes com Css
+    </h2>
+    <p>Eu estou a aprender sobre linear-gradient() e outras coisas</p>
+    <br>
+    <a href="https://gs-pt.github.io/Blog-do-Gaspar/Css%20test.html">Os meus testes em Css</a><progress></progress>
+    <br><p>15-04-2025</p>
+  </div>
+</body>
+</html>
